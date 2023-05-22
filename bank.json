@@ -1,0 +1,13 @@
+{
+    "bank": {
+        "infos": [
+            "non-pyscript"
+        ],
+        "privateKeys": [
+            {
+                "name": "key1",
+                "value": "welcome to the mato"
+            }
+        ]
+    }
+}
